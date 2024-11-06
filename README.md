@@ -29,7 +29,7 @@ Projetos em Cobol:
 
 4- Codigo que verifica se uma palavra é um palindromo ou não, usando uma logica de inverter a palavra:
 
-![image](https://github.com/user-attachments/assets/ccaba8ff-8e56-4eed-8986-9ca16ae5632f)
+![image](https://github.com/user-attachments/assets/8ad00fe8-6335-4552-8e1c-326ebcb89ea8)
 
 5- Codigo que conta o numero de vogais de um texto ou palavra usando o nivel 88:
 
