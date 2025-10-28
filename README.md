@@ -17,7 +17,7 @@ Projetos em Cobol:
 
 1-Primeiro projeto usando variaveis simples para calculo de data de aniversario:
 
-"
+##
       ******************************************************************
       * Author:
       * Date:
@@ -77,11 +77,11 @@ Projetos em Cobol:
            END-IF.
 
        00030-END.
-"
+##
 
 2-Projeto que converte minutos em horas:
 
-"
+##
       ******************************************************************
       * Author:
       * Date:
@@ -125,7 +125,7 @@ Projetos em Cobol:
 
             STOP RUN.
        END PROGRAM YOUR-PROGRAM-NAME.
-"
+##
 
 3- Uso de tabelas dentro do codigo
 
