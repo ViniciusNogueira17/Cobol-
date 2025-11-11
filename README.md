@@ -1,4 +1,4 @@
-# Cobol - Projects
+# Cobol - Iniciante
 Projetos em Cobol
 
 COBOL (Common Business Oriented Language) é uma linguagem de programação de alto nível, criada em 1959, para processamento de banco de dados, alguma curiosidades sobre Cobol: 
