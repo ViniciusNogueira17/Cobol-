@@ -360,7 +360,7 @@ Projetos em Cobol:
            MOVE "N" TO FIM.
            MOVE 1   TO X.
            MOVE 10  TO Y.
-           MOVE "02238237160" TO CPF.
+           MOVE "12378456910" TO CPF.
            MOVE CPF TO FLAG-F.
            MOVE 11  TO DIVIDENDO.
            MOVE 0   TO DIVISOR.
