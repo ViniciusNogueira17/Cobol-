@@ -304,7 +304,7 @@ Projetos em Cobol:
        00030-END.
       *
 
-6- Codigo para validar se um CPF é verdadeiro ou não(Maior projeto deste artigo):
+6- Validador de CPF:
 
 ##
        IDENTIFICATION      DIVISION.
